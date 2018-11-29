@@ -15,7 +15,7 @@
 
 * https://www.fontsquirrel.com/tools/webfont-generator _: site pour fabriquer des polices Web_
 * https://www.pierre-giraud.com/home.php _: lien tutoriels pour apprendre à coder en HTML, CSS et JS_
-*  
+* https://material.io/tools/ : outils pour concevoir un site Materiel Desgin (couleur, icônes etc...)
 * 
 * 
 * 
